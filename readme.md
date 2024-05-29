@@ -7,22 +7,7 @@ Olá! Este é o Confluence da área de Foundation Platform!
 
 Entre, fique à vontade! Venha conhecer um pouquinho do nosso mundo!Boa leitura! 
 
-
-
-
-
-O que você encontra aqui?
-
-
-
-#foundation-platform: canal onde estão todas as pessoas da nossa área.
-
-#foundation-platform-product: canal do capítulo de Produto de Foundation Platform.
-
-
-
-Nossa estrutura
-
+ddddd
 Mais informações aqui.
 
 
