@@ -13,11 +13,7 @@ Entre, fique à vontade! Venha conhecer um pouquinho do nosso mundo!Boa leitura!
 
 O que você encontra aqui?
 
-Todas as informações sobre a nossa área e toda a documentação dos nossos times.
 
-Onde nos encontrar?
-
-Canais do Slack  
 
 #foundation-platform: canal onde estão todas as pessoas da nossa área.
 
